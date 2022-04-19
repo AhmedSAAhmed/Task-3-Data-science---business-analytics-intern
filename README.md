@@ -4,7 +4,7 @@ Task three -An EDA to analyze the data to stakeholder and make a decision
 Here is a retail store the stakeholder come and ask his data to be analyzed and why he is losing in some store and why he is making profit in others
 with the raw data to the store we were able to visualize it and make a good desicion to the stake holder to make weather by continuing investing on that store or focusing on diffrent catagory
 
-                                                               Conclusion
+                                                    Conclusion
         
 
 1-High revenue and high number of customers,California,New york,Texas,Washington.
@@ -27,4 +27,4 @@ with the raw data to the store we were able to visualize it and make a good desi
 
 10-home oggice is the lowest in revenue with all ship mode.
 
-                                                               END
+                                                      END
