@@ -25,6 +25,6 @@ with the raw data to the store we were able to visualize it and make a good desi
 
 9-standard class in consumer segment has the most revenue generated.
 
-10-home oggice is the lowest in revenue with all ship mode.
+10-home office is the lowest in revenue with all ship mode.
 
                                                       END
